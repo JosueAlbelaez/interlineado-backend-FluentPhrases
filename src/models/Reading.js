@@ -20,7 +20,8 @@ const readingSchema = new mongoose.Schema({
       'Entertainment',
       'Health',
       'City',
-      'Nature'
+      'Nature',
+      'Irregular Verbs'
     ]
   },
   english_text: {
