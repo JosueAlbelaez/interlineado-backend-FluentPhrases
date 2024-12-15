@@ -14,6 +14,7 @@ const readingSchema = new mongoose.Schema({
       'Literature',
       'Work',
       'Studies',
+      'Short Stories',
       'Home',
       'Travel',
       'Food',
