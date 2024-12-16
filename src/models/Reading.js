@@ -10,6 +10,7 @@ const readingSchema = new mongoose.Schema({
     type: String,
     required: true,
     enum: [
+      'Conversations',
       'Technology',
       'Literature',
       'Work',
